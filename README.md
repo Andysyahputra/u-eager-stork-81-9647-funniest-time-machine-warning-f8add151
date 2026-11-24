@@ -1,5 +1,11 @@
 # Funniest Time Machine Warning Label
 
+[![make.fun](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151.svg)](https://make.fun/competitions/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
+[![rank](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/Andysyahputra/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/rank.svg)](https://make.fun/competitions/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
+[![reward](https://make.fun/badge/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/Andysyahputra/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151/reward.svg)](https://make.fun/competitions/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151)
+
+Entry for the [Funniest Time Machine Warning Label](https://make.fun/competitions/u-eager-stork-81-9647-funniest-time-machine-warning-f8add151) competition on [make.fun](https://make.fun).
+
 A program that writes the funniest one-line warning label for a time
 machine to `/output/entry.txt`.
 
